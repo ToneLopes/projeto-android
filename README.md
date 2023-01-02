@@ -35,11 +35,11 @@ O projeto da História do Android foi desenvolvido para ensinar as 'Tags' mais u
 
 ## 📱 Responsivo
 
-Você pode visualizar o layout Responsivo através do QrCode:
+Você pode visualizar o layout Responsivo através do seu Smartphone por meio do QrCode:
 <br> 
 
 <p>
-  <img alt="arvore de links de redes sociais" src="imagens/qr-code-projeto-android.png" width="100%">
+  <img alt="acesso ao repositório por meio do Qr Code" src="imagens/qr-code-projeto-android.png" width="20%">
 </p>
 
 Ou acessá-lo [AQUI](https://tonelopes.github.io/projeto-android/)
