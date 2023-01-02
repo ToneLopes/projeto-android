@@ -39,7 +39,8 @@ Você pode visualizar o layout Responsivo através do seu Smartphone por meio do
 <br> 
 
 <p>
-  <a href="https://tonelopes.github.io/projeto-android/"><img alt="acesso ao repositório por meio do Qr Code" src="imagens/qr-code-projeto-android.png" width="20%">
+  <a href="https://tonelopes.github.io/projeto-android/" target="_blank">
+    <img alt="acesso ao repositório por meio do Qr Code" src="imagens/qr-code-projeto-android.png" width="20%">
   </a>
 </p>
 
