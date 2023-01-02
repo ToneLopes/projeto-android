@@ -1,4 +1,4 @@
-<h1 align="center"> Gistória do Android </h1>
+<h1 align="center"> História do Android </h1>
 
 <p align="center">
 Projeto exclusivo e gratuito, promovido pelo "Curso em Vídeo" para ensino de tecnologias WEB.
@@ -7,7 +7,7 @@ Projeto exclusivo e gratuito, promovido pelo "Curso em Vídeo" para ensino de te
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Responsivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-responsivo">Responsivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -35,7 +35,14 @@ O projeto da História do Android foi desenvolvido para ensinar as 'Tags' mais u
 
 ## 📱 Responsivo
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/JO4HF1Rqis3VrgJ0cAOxhP/DevLinks-(Community)?node-id=0%3A1&t=lIRcD1vW29T94IvM-1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout Responsivo através do QrCode:
+<br> 
+
+<p>
+  <img alt="arvore de links de redes sociais" src="imagens/qr-code-projeto-android.png" width="100%">
+</p>
+
+Ou acessá-lo [AQUI](https://tonelopes.github.io/projeto-android/)
 
 ## :memo: Licença
 
