@@ -44,7 +44,7 @@ Você pode visualizar o layout Responsivo através do seu Smartphone por meio do
   </a>
 </p>
 
-Ou acessá-lo [AQUI](https://tonelopes.github.io/projeto-android/)
+Ou acessá-lo [AQUI](https://tonelopes.github.io/projeto-android/ target="_blank")
 
 ## :memo: Licença
 
